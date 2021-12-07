@@ -1,6 +1,6 @@
 {
   "name": "kb-react-pivottable",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "description": "A React-based pivot table",
   "main": "PivotTableUI.js",
   "files": [
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plotly/react-pivottable.git"
+    "url": "git+https://github.com/kbrabrand/react-pivottable.git"
   },
   "keywords": [
     "react",
